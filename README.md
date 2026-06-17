@@ -26,8 +26,8 @@ Interactive web dashboard for visualizing Indonesia's conservation priority, spe
 | Conservation Priority | `ranked` | Jung et al. 2021 — [DOI:10.1038/s41559-021-01528-7](https://doi.org/10.1038/s41559-021-01528-7) |
 | Species Richness | `mollweide` | Indonesia 10km Mollweide species richness index |
 | Habitat Classification | `habitat` | Jung et al. 2020 — [DOI:10.1038/s41597-020-00599-8](https://doi.org/10.1038/s41597-020-00599-8) |
-| IAS TNUK | `ias_tnuk` | Invasive Alien Species — Arenga obtusifolia, Taman Nasional Ujung Kulon |
-| IAS TNB | `ias_tnb` | Invasive Alien Species — Vachellia nilotica, Taman Nasional Baluran |
+| IAS TNUK | `ias_tnuk` | Angga Yudaputra, Ph.D. — Invasive Alien Species — *Arenga obtusifolia*, Taman Nasional Ujung Kulon |
+| IAS TNB  | `ias_tnb`  | Angga Yudaputra, Ph.D. — Invasive Alien Species — *Vachellia nilotica*, Taman Nasional Baluran |
 | Admin Boundaries | GADM | [GADM v4.1](https://gadm.org) — Indonesia (IDN) levels 0–2 |
 
 ## Requirements
