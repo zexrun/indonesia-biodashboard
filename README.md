@@ -293,6 +293,20 @@ Disk (TIF + SHP)
           ├── handle_location_search  → reads GADM_GDF + Nominatim → repositions map
           └── handle_ai_chat          → calls OpenAI GPT-4o-mini → returns AI response
 ```
+---
+
+## Acknowledgement
+
+This project was developed as part of an undergraduate thesis (Tugas Akhir) at Universitas Telkom, Fakultas Informatika, Program Studi Sarjana Informatika.
+
+| | |
+|--|--|
+| **Researcher** | Muhammad Rifqy Khuzaini (1301223473) |
+| **Supervisors** | Rio Nurtantyana · Tri Atmaja |
+| **Institution** | Universitas Telkom, Bandung, Indonesia |
+| **Year** | 2026 |
+
+The IAS spatial data layers were developed by **Angga Yudaputra, Ph.D.**, a researcher at the National Research and Innovation Agency (BRIN). This study was supported by the Asia-Pacific Network for Global Change Research (APN) No. CRRP2025-04MY-Setiawan.
 
 ---
 
